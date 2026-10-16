@@ -1,0 +1,19 @@
+
+
+The idea: call / arguments / result / failure
+ call: ask python to do something. 
+ agrument: the value you pass in.
+ result: is the retune value.
+ Failure: an exception raised when the operation cannot be completed.
+
+ language and stdlib API: this is a python build in funtionand a standard lib API. For example, pathlib helps work with file path The API tells you that exists() checks whether the path exists and returns a Boolean. 
+
+
+ system_ish API:  this  is an API that let Python interact with the computer or it enable us to interact with our computer for example (os)
+
+ json.dump save python date to a json file.
+
+ json.load read json from file turn it into python date.
+
+
+
