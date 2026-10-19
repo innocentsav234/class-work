@@ -6,7 +6,7 @@ The idea: call / arguments / result / failure
  result: is the retune value.
  Failure: an exception raised when the operation cannot be completed.
 
- language and stdlib API: this is a python build in funtionand a standard lib API. For example, pathlib helps work with file path The API tells you that exists() checks whether the path exists and returns a Boolean. 
+ language and stdlib API: this is a python build in funtion and a standard lib API. For example, pathlib helps work with file path The API tells you that exists() checks whether the path exists and returns a Boolean. 
 
 
  system_ish API:  this  is an API that let Python interact with the computer or it enable us to interact with our computer for example (os)
